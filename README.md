@@ -3,6 +3,7 @@
 
 **ATTENTION**
 На сайте есть античит, который будет блокировать ваши результаты на сайте, и требовать подтверждения на специальной странице, где **НЕЛЬЗЯ** использовать скрипт
+
 [![Anticheat attention](anticheat.png "Anticheat attention")](http://github.com "Anticheat attention")
 
 ## USE
