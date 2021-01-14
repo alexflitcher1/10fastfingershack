@@ -12,7 +12,7 @@
 1. Открыть файл   **/src/hack.js**
 2.  Скопировать код из файла
 3. Вставить файл в консоль браузера(**F12** в Google Chrome(в т.ч. в Chromium), Mozilla Firefox, в остальных случаях см. документацию вашего браузера)
-[![Console](Console "Console")](http://github.com "Console")
+[![Console](console.png "Console")](http://github.com "Console")
 4. Нажать клавишу **enter**
 
 ## Пример использования
